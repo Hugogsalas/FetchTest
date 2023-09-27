@@ -13,7 +13,7 @@ const router = createBrowserRouter(
       element: <Home />,
     },
   ],
-  { basename: import.meta.env.DEV ? '/' : '/react-vite-gh-pages/' }
+  { basename: import.meta.env.DEV ? '/' : '/FetchTest/' }
 );
 
 const App = () => {
