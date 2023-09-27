@@ -4,7 +4,6 @@ import Home from './views/home/component';
 
 const router = createBrowserRouter([
   {
-    path: '/',
     element: <Login />,
   },
   {
